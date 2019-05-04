@@ -3,3 +3,4 @@
 /target/libtarget_basic.so
 /target/libtarget_complex.so
 /hooks/call_private_basic
+/hooks/call_private_complex
