@@ -3,7 +3,7 @@
 #include "target.h"
 
 static void __attribute__((__noinline__)) say_something() {
-  puts("This is really something!\n");
+  puts("This is really something!");
 }
 
 void maybe_say(int num) {
