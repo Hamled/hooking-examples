@@ -1,3 +1,4 @@
 /app/app
 /target/libtarget.so
 /hooks/no_work
+/hooks/call_local
