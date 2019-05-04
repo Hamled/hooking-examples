@@ -11,3 +11,9 @@ if [[ -f ./call_private_complex ]]; then
 fi
 
 clang++ -I../target/include/ -ldl -L../target/ -ltarget_complex ./src/call_private_complex.cpp -o ./call_private_complex
+
+if [[ -f ./call_private_nodlsym ]]; then
+  rm ./call_private_nodlsym
+fi
+
+clang++ -I../target/include/ -ldl -L../target/ -ltarget_complex ./src/call_private_nodlsym.cpp -o ./call_private_nodlsym

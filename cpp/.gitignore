@@ -4,3 +4,4 @@
 /target/libtarget_complex.so
 /hooks/call_private_basic
 /hooks/call_private_complex
+/hooks/call_private_nodlsym
