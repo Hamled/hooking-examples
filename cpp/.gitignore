@@ -1,3 +1,5 @@
 /app/app_basic
+/app/app_complex
 /target/libtarget_basic.so
+/target/libtarget_complex.so
 /hooks/call_private_basic
