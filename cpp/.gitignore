@@ -1,2 +1,3 @@
 /app/app_basic
 /target/libtarget_basic.so
+/hooks/call_private_basic
